@@ -25,7 +25,7 @@ The repository is organized by day, with each day containing the problem's detai
 ```
 LeetCode
 |__README.md             <-- You are reading this file!
-|__DAY-01/
+|__DAY-02/
 |    |__README.md        <-- Question details, link to LeetCode problem
 |    |__Approach.md      <-- My detailed thought process and approach
 |    |__Solution.java    <-- The actual Java code solution
@@ -52,8 +52,8 @@ LeetCode
 
 I'll keep this section updated with my progress. Stay tuned for daily commits!
 
-- **Current Day:** DAY-01
-- **Problems Solved:** 01 / 60
+- **Current Day:** DAY-02
+- **Problems Solved:** 02 / 60
 
 ---
 
