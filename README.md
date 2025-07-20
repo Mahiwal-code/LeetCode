@@ -25,7 +25,7 @@ The repository is organized by day, with each day containing the problem's detai
 ```
 LeetCode
 |__README.md             <-- You are reading this file!
-|__DAY-02/
+|__DAY-01/
 |    |__README.md        <-- Question details, link to LeetCode problem
 |    |__Approach.md      <-- My detailed thought process and approach
 |    |__Solution.java    <-- The actual Java code solution
